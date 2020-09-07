@@ -1,0 +1,4 @@
+#ifndef QCUSTOMPLOT_H
+#define QCUSTOMPLOT_H
+
+#endif // QCUSTOMPLOT_H
