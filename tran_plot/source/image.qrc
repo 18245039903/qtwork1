@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>timg.jpeg</file>
+        <file>wait.gif</file>
+        <file>loading.gif</file>
+        <file>loading2.gif</file>
+        <file>loading3.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+debug/curve.o
+debug/main.o
+debug/qcustomplot.o
+debug/tablewidget.o
+debug/waiting.o
+debug/widget.o
+debug/qrc_image.o
+debug/moc_curve.o
+debug/moc_qcustomplot.o
+debug/moc_tablewidget.o
+debug/moc_widget.o

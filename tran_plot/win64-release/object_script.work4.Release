@@ -1,0 +1,11 @@
+release/curve.o
+release/main.o
+release/qcustomplot.o
+release/tablewidget.o
+release/waiting.o
+release/widget.o
+release/qrc_image.o
+release/moc_curve.o
+release/moc_qcustomplot.o
+release/moc_tablewidget.o
+release/moc_widget.o
